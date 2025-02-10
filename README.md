@@ -16,6 +16,20 @@ Enlaces relevantes:
 
 ## Organización del repositorio
 
+- Herramienta de trabajo y contenidos:
+  - [OpenFramework v0.11.2](of_v0.11.2)
+- Practicas semanales:
+  - [Semana 1 - Espiral](practicasSemanales/semana0_espiral/)
+  - [Semana 1 - Figuras](practicasSemanales/semana0_figuras/)
+  - [Semana 1 - PacMan](practicasSemanales/semana0_pacMan/)
+  - [Semana 2 - Paracaidista](practicasSemanales/semana2_paratrooper/)
+  - [Semana 3 - Dron](practicasSemanales/semana3_dron/)
+  - [Semana 4 - Super Mario](practicasSemanales/semana4_sumerMario/)
+- Proyectos finales:
+  - [Proyecto 1 - Juego en 2D](practica1) - - ([Repositorio original](https://github.com/RickieES/GCPractica1))
+  - [Proyecto 2 - Circuito de obstáculos en 3D](practica2) - - ([Repositorio original](https://github.com/MarioInf-UCM/GCPractica2))
+
+
 ## Programa de la asignatura
 
 - Introducción.

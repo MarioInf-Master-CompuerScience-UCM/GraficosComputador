@@ -1,10 +1,13 @@
 {
     "folders": [
         {
+            "path": "practicasSemanales"
+        },
+        {
             "path": "practica1"
         },
         {
-            "path": "practcia2"
+            "path": "practica2"
         },
         {
             "path": "."
